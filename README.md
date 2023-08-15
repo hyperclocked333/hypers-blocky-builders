@@ -1,5 +1,5 @@
-# hypers-blocky-builders
-features: ore boost (BROKEN RN), auto ascend, auto revive, randomized wait times, escrow layouts, more soon..
+# hypers-blocky-builders (DISCONTINUED, GAME PUT ME TO SLEEP WHILE TESTING)
+features: ore boost (BROKEN RN), auto ascend, auto revive, randomized wait times, escrow layouts
 
 script:
 ```
